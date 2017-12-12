@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="button1">Login</string>
+    <string name="username"></string>
+    <string name="password"></string>
+    <string name="txt1">Detail for username and password</string>
+    <string name="txt2">username</string>
+    <string name="txt3">password</string>
+</resources>
